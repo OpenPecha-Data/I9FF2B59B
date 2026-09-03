@@ -1,0 +1,83 @@
+id: d0b852336963435ca68a7a9c5a46ca1c
+annotation_type: Citation
+revision: '00001'
+annotations:
+  03d2205ae7364bf79fdf616410e8ae57:
+    span:
+      start: 30765
+      end: 30886
+    isverse: false
+  d62ab7f5105748be959ca33e50352493:
+    span:
+      start: 66125
+      end: 66171
+    isverse: true
+  119d81a229c2439a86d520ee421c5923:
+    span:
+      start: 71442
+      end: 71778
+    isverse: true
+  e83fc30350c64aeea8c1eb43aacc2de0:
+    span:
+      start: 73504
+      end: 73625
+    isverse: true
+  6656d600b1b4468394a23bc0a80f92ef:
+    span:
+      start: 90775
+      end: 90890
+    isverse: true
+  77c865b8cdd94ad588f9e34f761befd2:
+    span:
+      start: 95894
+      end: 96035
+    isverse: true
+  f9f7a0df6f164a31831628799e2eb236:
+    span:
+      start: 96190
+      end: 96258
+    isverse: true
+  5fd40cbdf193487e948751bc332895d6:
+    span:
+      start: 107157
+      end: 107224
+    isverse: true
+  d55c0f45e269447d864bcb34a5d5100b:
+    span:
+      start: 112843
+      end: 112997
+    isverse: true
+  5273d8a447f9461d9b6cbdc9c997544c:
+    span:
+      start: 116459
+      end: 116576
+    isverse: true
+  44bbb5ad41c04452a52b8984c045e39b:
+    span:
+      start: 122967
+      end: 123202
+    isverse: true
+  0a0c95d5550e4384a526191a2cb61a3d:
+    span:
+      start: 124284
+      end: 124395
+    isverse: true
+  796a2e1d56a449a4aa83c803a59d37a0:
+    span:
+      start: 124435
+      end: 124587
+    isverse: true
+local_ids:
+  03d2205ae7364bf79fdf616410e8ae57: 200000
+  d62ab7f5105748be959ca33e50352493: 200001
+  119d81a229c2439a86d520ee421c5923: 200002
+  e83fc30350c64aeea8c1eb43aacc2de0: 200003
+  6656d600b1b4468394a23bc0a80f92ef: 200004
+  77c865b8cdd94ad588f9e34f761befd2: 200005
+  f9f7a0df6f164a31831628799e2eb236: 200006
+  5fd40cbdf193487e948751bc332895d6: 200007
+  d55c0f45e269447d864bcb34a5d5100b: 200008
+  5273d8a447f9461d9b6cbdc9c997544c: 200009
+  44bbb5ad41c04452a52b8984c045e39b: 200010
+  0a0c95d5550e4384a526191a2cb61a3d: 200011
+  796a2e1d56a449a4aa83c803a59d37a0: 200012
